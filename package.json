@@ -2,6 +2,7 @@
   "name": "graphite-helpers",
   "displayName": "graphite-helpers",
   "description": "",
+  "publisher": "davidwallacejackson",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.99.3"
